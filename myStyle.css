@@ -9,3 +9,7 @@ div{
     color: brown;
     margin: auto;
 }
+h1,p{
+    text-align: center;
+    
+}
